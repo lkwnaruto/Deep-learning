@@ -1,0 +1,24 @@
+RLGC是一个开源的电力系统仿真软件，仿真内核由java开发，经Python封装构成类似OpenAI Gym的环境，可用于设计、测试智能的电力系统控制策略。
+C:\Users\ZARD\anaconda3\Lib\site-packages\gym
+
+待学习的奇怪函数包：
+GPy 
+地址们：https://blog.csdn.net/hisazakura/article/details/112337713
+
+........................
+GPyOpt
+
+........................
+sklearn库:
+提醒，安装语言为：pip install scikit-learn
+https://zhuanlan.zhihu.com/p/58358393
+........................
+XGBoost
+https://blog.csdn.net/sinat_35512245/article/details/79668363
+https://blog.csdn.net/sb19931201/article/details/52557382
+.......................
+bayes_opt
+(1)from bayes_opt import BayesianOptimization
+(2)安装：pip install bayesian-optimization
+
+
